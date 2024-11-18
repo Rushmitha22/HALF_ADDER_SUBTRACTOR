@@ -47,10 +47,12 @@ HALF SUBTRACTOR :
 **Code**
 
 HALF ADDER :
+
 ![half adder code](https://github.com/user-attachments/assets/3f2d2318-04d2-48d1-b9fb-0c13f995ddcb)
 
 
 HALF SUBTRACTOR :
+
 ![half subtractor code](https://github.com/user-attachments/assets/fe4fa652-03dd-42d1-848e-0ffff94eb703)
 
 
@@ -77,7 +79,6 @@ Developed by: RegisterNumber:*/
 
 HALF ADDER :
 ![half adder circuit ](https://github.com/user-attachments/assets/eec6886f-e568-4660-b856-f52e05af0737)
-
 HALF SUBTRACTOR :
 ![half subtractor logic](https://github.com/user-attachments/assets/7e758a05-50bc-4f75-9e6b-4cd0f67d6f04)
 
