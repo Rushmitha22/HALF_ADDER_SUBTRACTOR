@@ -78,7 +78,8 @@ Developed by: RegisterNumber:*/
 **RTL Schematic**
 
 HALF ADDER :
-![half adder circuit ](https://github.com/user-attachments/assets/eec6886f-e568-4660-b856-f52e05af0737)
+![HALF ADDER 1()](https://github.com/user-attachments/assets/e2e4ad22-3f0b-4d0c-a8aa-9e12def6a798)
+
 HALF SUBTRACTOR :
 ![half subtractor logic](https://github.com/user-attachments/assets/7e758a05-50bc-4f75-9e6b-4cd0f67d6f04)
 
