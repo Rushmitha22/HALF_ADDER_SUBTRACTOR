@@ -91,6 +91,8 @@ HALF SUBTRACTOR :
 ![half subtractor waveform](https://github.com/user-attachments/assets/959d3d06-9ee6-49c7-bdc4-9e9e6fb058a1)
 
 
+
+
 ### RESULT :
 Thus a half adder and half subtractor circuit is designed and the truth table is verified in
 Quartus using Verilog programming.
